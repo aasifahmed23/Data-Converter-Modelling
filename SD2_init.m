@@ -1,4 +1,5 @@
 %% ************************************************************************
+% Read a quick intro :https://www.seas.ucla.edu/brweb/papers/Journals/BRSpring16DeltaSigma.pdf
 % The modulator structure is simulated using Simulink (sd2.mdl).
 % Post-processing of the results is done with Matlab.
 % 1. Plots the Power Spectral Density of the bit-stream
